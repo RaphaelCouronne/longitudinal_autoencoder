@@ -7,7 +7,7 @@ Requirements :
 - leaspy (https://gitlab.com/icm-institute/aramislab/leaspy/)
 
 Datasets : 
-- Starmen https://zenodo.org/record/5081988 (DOI http://doi.org/10.5281/zenodo.5081988)
+- Starmen (http://doi.org/10.5281/zenodo.5081988)
 - ADNI cognitive scores http://adni.loni.usc.edu/
 - ADNI MRIs http://adni.loni.usc.edu/
 
