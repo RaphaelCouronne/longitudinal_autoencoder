@@ -1,0 +1,6 @@
+[submodule "lib/fast-soft-sort"]
+	path = lib/fast-soft-sort
+	url = https://github.com/google-research/fast-soft-sort.git
+[submodule "lib/leaspy"]
+	path = lib/leaspy
+	url = https://gitlab.com/icm-institute/aramislab/leaspy.git

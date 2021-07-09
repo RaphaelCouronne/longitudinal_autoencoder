@@ -1,0 +1,1 @@
+python main.py --dataset_input_path df.csv --folder results/test --dataset scalar --use_softrank --max_epochs 100 --model_name LongVAE --latent_dimension 5 --random_select 3 --pi_mode max --lr 0.01 --batch_size 32 --verbose 10
