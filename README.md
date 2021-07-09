@@ -1,5 +1,5 @@
 # longitudinal_autoencoder
-Code for the paper Longitudinal self-supervision to disentangleinter-patient variability from disease progression, based on PyTorch 1.7.
+Code for the paper Longitudinal self-supervision to disentangle inter-patient variability from disease progression, based on PyTorch 1.7.
 
 Requirements : 
 - environment.yml
